@@ -1,4 +1,5 @@
 # Human Fall Detection
+*Created: 2019-02-08*
 
 An AI course final project on **detecting human falls**, developed as part of the Master's in Bioinformatics coursework.
 
